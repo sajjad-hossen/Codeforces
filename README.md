@@ -1,2 +1,6 @@
 # Codeforces
-D. Carousel
+<ol>
+  <li>
+    [D. Carousel](b.cpp)
+  </li>
+</ol>
