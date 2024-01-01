@@ -1,6 +1,6 @@
 # Codeforces
 <ol>
   <li>
-    [D. Carousel](b.cpp)
+    loading....
   </li>
 </ol>
