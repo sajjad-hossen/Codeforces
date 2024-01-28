@@ -121,5 +121,6 @@ signed main()
                 }
             }
         }
+        cout<<"this is first work"<<endl;
     }
 }
